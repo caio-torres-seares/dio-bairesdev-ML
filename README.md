@@ -89,11 +89,9 @@ Os projetos evoluem em complexidade, desde conceitos básicos de processamento d
 
 ---
 
-<!-- ## 👨‍💻 Autor
+## 👨‍💻 Autor
 
-**[Seu Nome]**
-- 📧 Email: [seu-email@exemplo.com]
-- 🐙 GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- 💼 LinkedIn: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
+**Caio Torres Seares**
+- 💼 LinkedIn: [linkedin.com/in/caio-seares](https://linkedin.com/in/caio-seares)
 
---- -->
+---

@@ -99,4 +99,3 @@ curl -X POST "[http://127.0.0.1:8000/analyze/stride](http://127.0.0.1:8000/analy
 -   **LangChain**: Utilizado para a integração e comunicação com a API do Gemini.
 
 ---
-Feito por [SEU NOME](https://github.com/SEU-USUARIO).
