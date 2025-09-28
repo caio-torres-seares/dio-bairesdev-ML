@@ -89,9 +89,6 @@ Os projetos evoluem em complexidade, desde conceitos básicos de processamento d
 
 ---
 
-## 👨‍💻 Autor
 
-**Caio Torres Seares**
-- 💼 LinkedIn: [linkedin.com/in/caio-seares](https://linkedin.com/in/caio-seares)
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/caio-seares)
